@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/pedrojsx/clean-ts-api-template.git",
   "author": "pedrojsx <dev.pedro@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
 }
