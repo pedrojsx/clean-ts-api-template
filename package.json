@@ -1,0 +1,8 @@
+{
+  "name": "clean-ts-api-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedrojsx/clean-ts-api-template.git",
+  "author": "pedrojsx <dev.pedro@outlook.com>",
+  "license": "MIT"
+}
