@@ -1,6 +1,6 @@
 export default {
   baseConfig: {
-    url: 'http://localhost',
-    port: 3333
+    host: process.env.HOST_URL || 'http://localhost',
+    port: process.env.HOST_PORT || 3333
   }
 }
